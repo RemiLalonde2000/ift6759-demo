@@ -1,1 +1,8 @@
-"# ift6759-demo" 
+Rémi Lalonde
+
+
+
+
+
+"# ift6759-demo"
+
